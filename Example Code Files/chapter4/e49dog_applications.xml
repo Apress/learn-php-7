@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dog_applications>
+<application>
+<type ID='dog'>
+<location>e416dog.php</location>
+</type>
+</application>
+<application>
+<type ID='selectbox'>
+<location>e412get_breeds.php</location>
+</type>
+</application>
+<application>
+<type ID='breeds'>
+<location>e45breeds.xml</location>
+</type>
+</application>
+</dog_applications> 
+
